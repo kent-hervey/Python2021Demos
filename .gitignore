@@ -1,0 +1,11 @@
+# .gitignore
+__pycache__
+venv
+env
+.pytest_cache
+.coverag# .gitignore
+__pycache__
+venv
+env
+.pytest_cache
+.coveragee
